@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zyzix564
+- 👋 Hi, I’m Thomas Carroll
 - 👀 I’m interested in video games, tennis, and guitar.
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
